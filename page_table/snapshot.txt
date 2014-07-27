@@ -1,0 +1,25 @@
+¶nstalling handler in IDT position 41
+Installing handler in IDT position 42
+Installing handler in IDT position 43
+Installing handler in IDT position 44
+Installing handler in IDT position 45
+Installing handler in IDT position 46
+Installing handler in IDT position 47
+Installed exception handler at ISR <0>
+Frame Pool
+<512>Installed exception handler at ISR <14>
+<2101248><2117632>Installed interrupt handler at IRQ <0>
+Hello World!
+EXCEPTION DISPATCHER: exc_no = <14>
+Page Fault
+<4194307><2105347>
+EXCEPTION DISPATCHER: exc_no = <14>
+Page Fault
+<4198403><2109443>
+EXCEPTION DISPATCHER: exc_no = <14>
+Page Fault
+<4198403><2113539>
+EXCEPTION DISPATCHER: exc_no = <14>
+Page Fault
+<4198403><2117635>
+
